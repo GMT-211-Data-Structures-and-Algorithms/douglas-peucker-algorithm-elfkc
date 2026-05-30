@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: gmt211_2220674068
+Version: 0.1.0
+Summary: Douglas-Peucker Algorithm Implementation for GMT 211
+Author: Elif Koç
+Author-email: e.koc@hacettepe.edu.tr
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-python
+Dynamic: summary

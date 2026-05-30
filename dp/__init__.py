@@ -1,0 +1,1 @@
+from .dp_algo import execute_douglas_peucker
